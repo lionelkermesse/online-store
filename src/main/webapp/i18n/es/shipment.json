@@ -1,0 +1,27 @@
+{
+  "storeApp": {
+    "shipment": {
+      "home": {
+        "title": "Shipments",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Shipment",
+        "createOrEditLabel": "Crear o editar Shipment",
+        "notFound": "Ningún Shipments encontrado"
+      },
+      "created": "Un nuevo Shipment ha sido creado con el identificador {{ param }}",
+      "updated": "Un Shipment ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Shipment ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Shipment {{ id }}?"
+      },
+      "detail": {
+        "title": "Shipment"
+      },
+      "id": "ID",
+      "trackingCode": "Tracking Code",
+      "date": "Date",
+      "details": "Details",
+      "invoice": "Invoice"
+    }
+  }
+}

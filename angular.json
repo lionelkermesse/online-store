@@ -105,6 +105,7 @@
       "path": "./build/angular/",
       "environment": "all"
     },
-    "packageManager": "npm"
+    "packageManager": "npm",
+    "analytics": "17d9bd47-5c96-4d8b-aec1-f9ba4a843f19"
   }
 }

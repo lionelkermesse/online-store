@@ -1,0 +1,29 @@
+{
+  "storeApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Product",
+        "createOrEditLabel": "Crear o editar Product",
+        "notFound": "Ningún Products encontrado"
+      },
+      "created": "Un nuevo Product ha sido creado con el identificador {{ param }}",
+      "updated": "Un Product ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Product ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "pSize": "P Size",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}
