@@ -21,7 +21,7 @@
       "name": "Name",
       "description": "Description",
       "price": "Price",
-      "pSize": "P Size",
+      "pSize": "Size",
       "image": "Image",
       "productCategory": "Product Category"
     }

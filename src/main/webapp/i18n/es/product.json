@@ -18,12 +18,12 @@
         "title": "Product"
       },
       "id": "ID",
-      "name": "Name",
+      "name": "Nombre",
       "description": "Description",
       "price": "Price",
-      "pSize": "P Size",
-      "image": "Image",
-      "productCategory": "Product Category"
+      "pSize": "Tamaño",
+      "image": "Imagen",
+      "productCategory": "Categoria del Product"
     }
   }
 }
